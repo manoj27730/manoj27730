@@ -453,9 +453,9 @@ font-weight: 600;
 padding-right: 0px;
 }
 .progress {
-border-radius: 0px;
+border-radius: 2px;
 height: 15px;
-margin-top: 5px;
+margin-top: px;
 background-color: #D6D6D6;
 }
 .progress .progress-bar {
@@ -892,7 +892,7 @@ body {
 footer {
     border-top: 1px solid #e5e5e5;
     padding: 45px 0;
-    background: #fff;
+    background: #red;
 }
 
 .social a:hover {
@@ -902,7 +902,7 @@ footer {
 .social a {
     font-size: 32px;
     margin: 0 10px;
-    color: red;
+    color: blue;
 }
 
 .contact ul li {
